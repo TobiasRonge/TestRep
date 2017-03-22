@@ -10,8 +10,7 @@ public class Test{
   
   public Test(){
     System.out.println("Test is working!");
-    System.out.println("Commiting is working as well!")
+    System.out.println("Commiting is working as well!");
   }
-
 
 }
